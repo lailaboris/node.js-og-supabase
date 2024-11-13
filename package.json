@@ -1,0 +1,20 @@
+{
+  "name": "node-javascript",
+  "version": "1.0.0",
+  "description": "en historie",
+  "main": "index.js",
+  "scripts": {
+    "test": "hej"
+  },
+  "keywords": [
+    "historie"
+  ],
+  "author": "laila",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
